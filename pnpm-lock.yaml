@@ -41,7 +41,7 @@ importers:
         version: 1.2.5(eslint@9.19.0(jiti@2.4.2))
       '@rebeccastevens/eslint-config':
         specifier: 3.5.3
-        version: 3.5.3(gruyfs2xhrr6sfqlc6vezdr3my)
+        version: 3.5.3(bcf7d92a4d01ff2bf1c61996e8d8bfc4)
       '@rollup/plugin-replace':
         specifier: 6.0.2
         version: 6.0.2(rollup@4.30.1)
@@ -6565,7 +6565,7 @@ snapshots:
       '@pnpm/network.ca-file': 1.0.2
       config-chain: 1.1.13
 
-  '@rebeccastevens/eslint-config@3.5.3(gruyfs2xhrr6sfqlc6vezdr3my)':
+  '@rebeccastevens/eslint-config@3.5.3(bcf7d92a4d01ff2bf1c61996e8d8bfc4)':
     dependencies:
       '@antfu/install-pkg': 0.5.0
       '@clack/prompts': 0.9.1
